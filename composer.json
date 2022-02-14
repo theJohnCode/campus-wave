@@ -1,5 +1,5 @@
 {
-    "name": "hostname47/composer",
+    "name": "johncode/campuswave",
     "require": {
         "mailgun/mailgun-php":"~1.7.1",
         "guzzlehttp/guzzle": "7.2.0"

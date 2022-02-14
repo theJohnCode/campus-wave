@@ -32,8 +32,8 @@ $GLOBALS["config"] = array(
         )
     ),
     "root"=> array(
-        'path'=>'http://127.0.0.1/CHAT/',
-        'project_name'=>"CHAT"
+        'path'=>'http://127.0.0.1/cwave/',
+        'project_name'=>"CWAVE"
     )
 );
 

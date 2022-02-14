@@ -37,7 +37,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>V01D47</title>
+    <title>Campus Wave - Connecting Campuses Together</title>
     <link rel='shortcut icon' type='image/x-icon' href='public/assets/images/favicons/favicon.ico' />
     <link rel="stylesheet" href="public/css/global.css">
     <link rel="stylesheet" href="public/css/header.css">
@@ -87,7 +87,7 @@
                     <?php if(count($journal_posts) == 0) { ?>
                         <div id="empty-posts-message">
                             <h2>Try to add friends, or follow them to see their posts ..</h1>
-                            <p>click <a href="http://127.0.0.1/CHAT/search.php" class="link" style="color: rgb(66, 219, 66)">here</a> to go to the search page</p>
+                            <p>click <a href="http://127.0.0.1/cwave/search.php" class="link" style="color: rgb(66, 219, 66)">here</a> to go to the search page</p>
                         </div>
                     <?php } else { 
                         foreach($journal_posts as $post) {

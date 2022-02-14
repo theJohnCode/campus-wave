@@ -1,4 +1,4 @@
-let root = "/CHAT/";
+let root = "/cwave/";
 
 let current_user_id = null;
 
